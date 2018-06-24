@@ -1,0 +1,18 @@
+.card {
+    height: 140px;
+    background: rgb(220, 162, 108);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .card:hover {
+      transform: scale(1.10);
+  }
+  
+  img {
+    width: 60%;
+  }
+  
