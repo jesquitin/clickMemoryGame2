@@ -85,6 +85,7 @@ class App extends Component {
        <div className="container row cardWrapper">
        {this.renderCards(this.state.cards)}
        </div>
+       <br />
        <Footer text={this.state.footerText} />
       </div>
     );

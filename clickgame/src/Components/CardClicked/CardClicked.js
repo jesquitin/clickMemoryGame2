@@ -10,7 +10,8 @@ function handleClick(props) {
 
 function CardClicked(props){
     return (
-        <div className="card img-container" onClick={() => handleClick(props)}>
+
+        <div className="img-container" onClick={() => handleClick(props)}>
         <img alt={props.name} src={props.image} />
         </div>
     )

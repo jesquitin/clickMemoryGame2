@@ -6,8 +6,8 @@ function Modal() {
             <div className="modal-content">
               <h4 className="center">Game Instructions</h4>
                 <ol>
-                    <li>Click on an image to start the game</li>
-                    <li>Click all images without repeating - You WIN!!!</li>
+                    <li>Click on "Start Game" below to start the game</li>
+                    <li>Click all images once without repeating - You WIN!!!</li>
                     <li>If an images is clicked more than once during the round - You LOSE!!!</li>
                 </ol>
             </div>

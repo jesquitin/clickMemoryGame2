@@ -7,7 +7,7 @@
   {
     "id": 2,
     "name": "Joe Pesci",
-    "image": "https://icdn2.digitaltrends.com/image/joe-pesci-goodfellas-720x720.jpg"
+    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/09/goodfellas/lead_720_405.jpg?mod=1522838761"
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "name": "Gangs",
-    "image": "http://www.nationalcrimesyndicate.com/wp-content/uploads/2015/09/Mobsters-meeting-around-pool-table.jpg"
+    "image": "https://static.comicvine.com/uploads/original/2/24320/1773116-mobsters_09_main.jpg"
   },
   {
     "id": 6,
@@ -56,7 +56,7 @@
   },
   {
     "id": 12,
-    "name": "Lucky Luciano",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFQ0kUxjRndBMEXoxE8rkiG4u_pSvPKSlvgkyY-Xs6rIpQTAq"
+    "name": "Scarface",
+    "image": "https://images.amcnetworks.com/ifc.com/wp-content/uploads/2016/04/Scarface-Al-Pacino-e1461953185446-800x400.jpg"
   }
 ]

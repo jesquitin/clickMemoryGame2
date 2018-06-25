@@ -1,21 +1,18 @@
-.card {
-    height: 150px;
-    width: 1;
-    background: rgb(220, 162, 108);
-    cursor: pointer;
-    transition: all .2s ease-in-out;
-    overflow: hidden;
-    padding: 10px;
-    text-align: center;
-  }
+
+
+ 
 
   img {
-    height: 150px;
-    width: fit-content;
+    height: 160px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px solid white;
+    
+
   }
   
-  .card:hover {
-      transform: scale(1.10);
+  .img-container:hover {
+      transform: scale(1.50);
   }
   
   img {

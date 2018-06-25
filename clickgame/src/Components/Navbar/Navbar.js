@@ -10,8 +10,8 @@ function Navbar(props) {
                         .classList.remove("hide"); }}>Mobsters</a>
                     <a href="/" className="brand-logo  center">Click Memory Game</a>
                  <ul className="right">
-                    <li >Score: {props.score}</li>
-                    <li >Top Score: {props.topScore} </li>
+                    <li >Score: {props.score} </li>
+                    <li style={{paddingRight: "20px"}}>Top Score: {props.topScore} </li>
                  </ul>
                </div>
            </nav>
