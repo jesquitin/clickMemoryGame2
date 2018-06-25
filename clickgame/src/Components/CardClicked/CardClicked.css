@@ -1,11 +1,17 @@
 .card {
-    height: 140px;
+    height: 150px;
+    width: 1;
     background: rgb(220, 162, 108);
     cursor: pointer;
     transition: all .2s ease-in-out;
     overflow: hidden;
     padding: 10px;
     text-align: center;
+  }
+
+  img {
+    height: 150px;
+    width: fit-content;
   }
   
   .card:hover {
